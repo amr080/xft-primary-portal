@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002F[[...pageSlug]]","\u002Farticle\u002F[article]","\u002Fcareers\u002F[vacancy]","\u002Fcareers\u002Fapply\u002F[vacancy]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
